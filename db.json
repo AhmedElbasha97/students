@@ -1,0 +1,7 @@
+{
+  "Students":[
+  {"Id":1,"Name":"Akram","Age":20,"Address":"23 Cairo"},
+  {"Id":2,"Name":"Mohamed","Age":30,"Address":"21 Alex"},
+  {"Id":3,"Name":"Ahmed","Age":33,"Address":"1 Smart" }
+]
+}
